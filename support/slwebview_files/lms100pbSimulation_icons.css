@@ -1,0 +1,15 @@
+.lms100pbSimulation0,
+.lms100pbSimulation1,
+.lms100pbSimulation2,
+.lms100pbSimulation3,
+.lms100pbSimulation4,
+.lms100pbSimulation5,
+.lms100pbSimulation6 { background-image: url('lms100pbSimulation_icons.png'); width: 16px; height: 16px; }
+
+.lms100pbSimulation0 { background-position: -0px; }
+.lms100pbSimulation1 { background-position: -16px; }
+.lms100pbSimulation2 { background-position: -32px; }
+.lms100pbSimulation3 { background-position: -48px; }
+.lms100pbSimulation4 { background-position: -64px; }
+.lms100pbSimulation5 { background-position: -80px; }
+.lms100pbSimulation6 { background-position: -96px; }

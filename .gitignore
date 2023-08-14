@@ -1,0 +1,8 @@
+.env/
+__pycache__/
+_rels/
+out/
+stylesheets/
+lib/
+.DS_Store
+\[Content_Types\].xml
