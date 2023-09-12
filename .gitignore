@@ -1,8 +1,5 @@
 .env/
 __pycache__/
-_rels/
 out/
-lib/
 .DS_Store
-\[Content_Types\].xml
 node_modules/
